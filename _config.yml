@@ -1,7 +1,7 @@
 name: Cosmophage
 favicon: null
-layout_spectrum: 0.3348838738165796
-typography_spectrum: 0.07946051796898246
+layout_spectrum: 1
+typography_spectrum: 0.58504
 title: 'Cosmophagic: Devour the Universe'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.9291837117634714
-  lightness: 0.7218317100778222
-  saturation: 0.021422040415927768
-  rhythmicContrast: 0.391132949385792
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
