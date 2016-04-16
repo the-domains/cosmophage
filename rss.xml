@@ -2,16 +2,22 @@
     <channel>
         <title><![CDATA[Cosmophagic: Devour the Universe]]></title>
         <description><![CDATA[Cosmophagic: Devour the Universe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cosmophage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 01:45:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 01:48:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cosmophage/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd580483-8423-4127-8af2-4d458a057e5d.jpg">]]></description>
-            <link>undefineda-photo-released-on-jan-6-2015-shows-one-of-the-most-icon/index.html</link>
+            <link>https://thegrid.ai/cosmophage/a-photo-released-on-jan-6-2015-shows-one-of-the-most-icon/index.html</link>
             <guid isPermaLink="false">3a716995-4c84-4e63-b5e5-16906791f8ce</guid>
             <pubDate>Sat, 16 Apr 2016 01:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/cosmophage/7224abc0-7f0b-4f32-b832-3bcf8fa80923/index.html</link>
+            <guid isPermaLink="false">7224abc0-7f0b-4f32-b832-3bcf8fa80923</guid>
+            <pubDate>Sat, 16 Apr 2016 01:48:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
